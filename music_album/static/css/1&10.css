@@ -1,0 +1,53 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.image{
+    background-color:#3ba715;
+}
+body{
+    background-color:#2e2d2d;
+}
+.container{
+    display:flex;
+    align-items:center;
+    justify content:center;
+    flex-direction:column;
+    position:absolute;
+    top:0px;
+    bottom:0px;
+    right:583px;
+
+}
+audio{
+    margin:30px;
+}
+img{
+    margin-top:50px;
+}
+button{
+    background-color:#999191;
+    padding:15px 30px;
+    border-radius:30px;
+    font-weight:900;
+
+}
+.button{
+    display:flex;
+    flex-direction:row;
+    jusatify content;center;
+    align items:center;
+
+}
+video{
+width:100%;
+height:100vh;
+margin:0px;
+padding:0px;
+}
+button:hover{
+    border:2px solid white;
+    background-color:#2e2d2d;
+    border-radius:30px;
+    color:white;
+}
